@@ -1,0 +1,28 @@
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\bin\Debug\Quanlybanhang.mdf
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\bin\Debug\Quanlybanhang_log.ldf
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\bin\Debug\Quản Lý Bán Bánh.exe.config
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\bin\Debug\Quản Lý Bán Bánh.exe
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\bin\Debug\Quản Lý Bán Bánh.pdb
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản Lý Bán Bánh.csproj.AssemblyReference.cache
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.Properties.Resources.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản Lý Bán Bánh.csproj.GenerateResource.cache
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản Lý Bán Bánh.csproj.CoreCompileInputs.cache
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản Lý Bán Bánh.exe
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản Lý Bán Bánh.pdb
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmHoaDonBn.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmDanhMucChatLieu.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmDanhMucNhanVien.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmDMKhachHang.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.Frmmain.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmTimKiemHoaDon.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản Lý Bán Bánh.csproj.ResolveComReference.cache
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FORMDANGNHAP.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmDanhMucHangHoa.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhMuoi.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhKem.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhLo.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhMi.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhNgot.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhQuy.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmBanhSinhNhat.resources
+D:\c#\Quản Lý Bán Bánh\Quản Lý Bán Bánh\obj\Debug\Quản_Lý_Bán_Bánh.FrmKhongBietTen.resources
